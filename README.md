@@ -22,22 +22,22 @@ Key Findings
 2. Online Travel Agencies generated the highest booking volume.
 3. OTA bookings showed significantly higher cancellation rates than Direct bookings.
 4. Estimated commission expense exceeded $6.7M.
--Potential Opportunity:
--- Redirecting 10% of OTA volume to Direct channels could significantly reduce commission costs while improving booking reliability.
+
+- Potential Opportunity: Redirecting 10% of OTA volume to Direct channels could significantly reduce commission costs while improving booking reliability.
    
 5. Cancellation Risk Increases With Lead Time
 6. Cancellation rates increased from 8.5% (0-7 days) to 36.7% (90+ days).
 7. Long-lead refundable bookings represent the highest revenue risk.
-- Recommendation:
--- Restrict refundable inventory during high-demand periods.
+
+- Recommendation: Restrict refundable inventory during high-demand periods.
 
 8. Repeat Guests Are More Reliable
 9. Repeat guests showed less than half the cancellation rate of first-time guests.
 10. Despite lower ADR, repeat guests generated more predictable revenue.
-- Recommendation:
--- Increase loyalty and direct-booking initiatives.
+
+- Recommendation: Increase loyalty and direct-booking initiatives.
 
 11. Pricing Appears Reactive
 12. ADR peaks followed demand peaks rather than anticipating them.
-- Recommendation:
--- Introduce forward-looking revenue management pricing strategies.
+
+- Recommendation: Introduce forward-looking revenue management pricing strategies.
